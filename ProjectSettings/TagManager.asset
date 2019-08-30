@@ -5,7 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - token
-  - log
+  - badGuy
+  - BigBadGuy
+  - diamond
   layers:
   - Default
   - TransparentFX

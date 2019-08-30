@@ -11,7 +11,7 @@ public class P_move : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButton("Horizontal"))
+        if (Input.GetButton("Horizontal") && Game_Init.gameStarted)
         {
             if (Input.GetAxis("Horizontal") > 0 && t > 0.06f && xPos < 7)
             {

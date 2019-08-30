@@ -235,6 +235,7 @@ MonoBehaviour:
   collectToken: {fileID: 8300000, guid: a25015b2667424bc78df0b9fe24eb972, type: 3}
   pain: {fileID: 8300000, guid: 684ba555aabe34b7280834b8c6914008, type: 3}
   tokenUI: {fileID: 0}
+  cam: {fileID: 0}
 --- !u!95 &773840645733129430
 Animator:
   serializedVersion: 3
